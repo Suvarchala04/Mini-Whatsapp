@@ -1,0 +1,26 @@
+body{
+    margin-left: 20px;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.chat-box{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 40%;
+    border-radius: 1rem;
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    border-radius: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.edit-del{
+    display: flex;
+}
+.btn-light{
+    margin-left: 5px;
+}
